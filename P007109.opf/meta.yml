@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20519
   title: བེའུ་བུམ་སྔོན་པོའི་འགྲེལ་པ
-  volume: ''
+  volume:
+    c5c7de83637c490ab2714f1a80adea2b:
+      image_group_id: I1PD108827
+      title: Volume 1 of be'u bum sngon po'i 'grel pa
+      volume_number: 1
+      total_pages: 492
   author: ''
+ebook_metadata:
+  title: བེའུ་བུམ་སྔོན་པོའི་འགྲེལ་པ
+  author: ''
+  sku: P007109
+  cover: cover.jpg
+  layers:
+  - pagination
