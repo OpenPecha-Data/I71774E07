@@ -1,15 +1,16 @@
-id: opecha:P007109
+id: P007109
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W20519
   title: བེའུ་བུམ་སྔོན་པོའི་འགྲེལ་པ
-  volume:
+  author: ''
+  volumes:
     c5c7de83637c490ab2714f1a80adea2b:
       image_group_id: I1PD108827
       title: Volume 1 of be'u bum sngon po'i 'grel pa
       volume_number: 1
       total_pages: 492
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བེའུ་བུམ་སྔོན་པོའི་འགྲེལ་པ
   author: ''
